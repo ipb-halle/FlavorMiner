@@ -4,3 +4,6 @@
 
 The Google Colab Notebook linked down contains detailed instructions to Run FlavorMiner.
 
+FlavorMiner.ipynb
+
+#PAPER UNDER REVIEW IN NATURE COMMUNICATIONS
