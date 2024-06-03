@@ -6,4 +6,4 @@ The Google Colab Notebook linked down contains detailed instructions to Run Flav
 
 [FlavorMiner.ipynb](https://colab.research.google.com/github/FabioHerrera97/FlavorMiner/blob/main/FlavorMiner.ipynb)https://colab.research.google.com/github/FabioHerrera97/FlavorMiner/blob/main/FlavorMiner.ipynb
 
-# PAPER UNDER REVIEW IN NATURE COMMUNICATIONS
+# PAPER UNDER REVIEW
